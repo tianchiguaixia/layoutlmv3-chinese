@@ -13,7 +13,7 @@ https://github.com/doc-analysis/XFUND/releases/tag/v1.0
 ![image](https://github.com/user-attachments/assets/c20a7fe8-fa19-43bd-851e-2ab780380c9e)
 
 ### 图片样例
-
+![image](https://github.com/tianchiguaixia/layoutlmv3-chinese/blob/main/img/zh_train_0%20(1).jpg)
 
 ### 代码结构
 
