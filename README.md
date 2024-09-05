@@ -23,4 +23,11 @@ https://github.com/doc-analysis/XFUND/releases/tag/v1.0
 ├── inference.py       #模型推理
 ```
 
+### 模型训练
+![image](https://github.com/user-attachments/assets/aac73cb8-22bb-45e3-8a07-f3f39bb1cc20)
 
+
+### 模型推理效果
+
+
+![1 (5)](https://github.com/user-attachments/assets/832e2990-a642-4d71-bb8e-b90d9b2bcb59)
